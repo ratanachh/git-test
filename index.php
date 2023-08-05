@@ -12,4 +12,6 @@ print("Feature B");
 // add feature C
 print("Feature C");
 
+// comment
+
 print("modification 2");
